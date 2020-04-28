@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # игнорировать файл README.md
 README.md
 
@@ -6,3 +7,6 @@ build/side.txt
 
 # игнорировать все файлы с расширением .doc
 *.doc
+=======
+README.md
+>>>>>>> 7d2d9bf4cae2345c44dee04b5a2f2e21765d834b
